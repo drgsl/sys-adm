@@ -1,0 +1,58 @@
+
+# yay
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -Si
+
+# installs using yay
+yay -S microsoft-edge-stable google-chrome oh-my-zsh-git 
+yay -S google-chrome-dev google-chrome-beta
+yay -S microsoft-edge-dev-bin microsoft-edge-beta-bin
+yay -S vscodium
+
+
+# installs using pacman:
+
+stow
+
+wiki-tui
+wikicourses
+putty
+obs-studio
+audacity
+chromium
+dolphin
+konsole
+kitty
+tmux
+vim
+neovim
+openssh
+sshd
+ntfs-3g
+eza less fzf trash-cli zoxide bat ripgrep duf tldr tree zsh nnn man-db 
+neofetch
+gparted
+dmenu polybar rofi calc 
+waybar hyprlock
+
+git github-cli
+nodejs npm
+
+discord 
+breeze
+nwg-look
+
+wlr-randr
+pavucontrol
+vi
+kanshi
+
+mixxx 
+asciiquarium
+steam wine qemu-full qemu-base lutris 
+net-tools 
+kdenlive 
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+
+winget install --source msstore --force --accept -package-agreements --accept -source-agreements
+
+Microsoft.VisualStudio.2022.Community
+putty
+realvnc
+sysinternals
+arduino
+github.cli
+
+powertoys
+python3
+rufus
+trello
+draw.io
+devtoys
+notion
+spotify deezer tidal soundcloud
+mixxx audacity 
+obs gimp blender inkscape vlc treesize anki heic heif avc paint recuva crystaldiskinfo whatsapp netflix discord reddit wikipedia zoom outlook skype linkedin epic ubisoft qbittorrent dolby deepL 
+
+vim.vim neovim
+
+flstudio resolume blender animate oneNote
+
